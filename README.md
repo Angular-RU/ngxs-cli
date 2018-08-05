@@ -52,5 +52,5 @@ npm test
 Local execute CLI
 
 ```
-node index.js
+ts-node index.ts
 ```
