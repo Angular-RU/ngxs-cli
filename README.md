@@ -1,4 +1,5 @@
-# @ngxs/cli - DEV BUILD
+# @ngxs/cli
+![npm version](https://badge.fury.io/js/ngxs-cli.svg)
 
 ![CLI Screenshot](https://raw.githubusercontent.com/Angular-RU/ngxs-cli-devbuild/master/assets/cli.gif)
 
@@ -6,7 +7,7 @@
 The CLI can be installed using NPM:
 
 ```bash
-npm i ngxs-cli-devbuild -g
+npm i ngxs-cli -g
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
-  "name": "ngxs-cli-devbuild",
-  "version": "0.0.7",
+  "name": "ngxs-cli",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./lib/index.js",
   "typings": "./lib/index.d",
